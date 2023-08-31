@@ -27,7 +27,7 @@
     width: 100%;
 }
 
-.block .info
+.block .info{
     float: left;
     width: 25%;
     height: 500px;
@@ -38,13 +38,15 @@
     float: left;
     width: 25%;
     height: 500px;
-    border: 10px;
+    border-color: black;
+    border-width: 5px;
 }
 
 .block .extern_link{
     float: left;
     width: 25%;
     height: 500px;
-    border: 10px;
+    border-color: black;
+    border-width: 5px;
 }
 
