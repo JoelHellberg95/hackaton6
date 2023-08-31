@@ -2,13 +2,13 @@
     background-color: darkslategrey;
     width: 100%;
     height: 100px;
+    padding-top: 45px;
 }
 
 .header h1{
     text-align: center;
     color: white;
-    font-size: 20px;
-    padding-top: 30px;
+    font-size: 30px;
 }
 
 .block {
@@ -31,22 +31,31 @@
     float: left;
     width: 25%;
     height: 500px;
-    border: 10px;
 }
 
 .block .list{
     float: left;
     width: 25%;
     height: 500px;
-    border-color: black;
-    border-width: 5px;
+    padding-top: 125px;
 }
 
 .block .extern_link{
     float: left;
     width: 25%;
     height: 500px;
-    border-color: black;
-    border-width: 5px;
+    padding-top: 125px;
+}
+
+li{
+    font-size: 20px;
+    height: 80px;
+    text-align: center;
+}
+
+a{
+    text-align: center;
+    color: black;
+    font-size: 20px;
 }
 
